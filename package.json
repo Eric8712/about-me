@@ -1,5 +1,6 @@
 {
   "name": "about-me",
+  "homepage": "https://Eric8712.github.io/about-me",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
